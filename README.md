@@ -2,9 +2,17 @@
 Learn Vue as a React developer.<br>
 The objective is to make it seemless for you to take up VueJs since you are a React developer. Because you are a React developer, you should not struggle with Vue...Never!!
 
-## References
+Please we do not take any stand which is a better framework. From reading through these links, you would come to be so indifferent like me too.
 
-* [Vue official docs comparison with React (be kind it is v2)](https://vuejs.org/v2/guide/comparison.html#React)
+## Journey
+
+### Vue Comparison with React
+- [Vue official docs comparison with React (be kind it is v2)](https://vuejs.org/v2/guide/comparison.html#React)
+- [A frontend architect view](https://www.monterail.com/blog/vue-vs-react)
+
+Overall, there is no major reason why React is better to VueJs and vice-versa
+
+## Deep dive
 * [Using React-Style Callback Props With Vue: Pros and Cons](https://vuejsdevelopers.com/2018/07/30/callback-props-vs-emitting-events/?jsdojo_id=fb_cbp)
 * [Checklist for Writing Highly Reusable Components in React and Vue](https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd)
 * [A React Point of Vue - Divya Sasidharan at VueConf.US](https://youtu.be/5TgvhATYm3Q)
