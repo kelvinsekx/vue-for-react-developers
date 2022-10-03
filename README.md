@@ -1,12 +1,30 @@
-# vue-for-react-developer
+# vue-for-react-developers
 Learn Vue as a React developer.<br>
 The objective is to make it seemless for you to take up VueJs since you are a React developer. Because you are a React developer, you should not struggle with Vue...Never!!
 
 ## References
 
+### Vue comparison with React from Vue's official docs
+
+This provides an abstract overview of why Vue is chosen over React. Since it is coming from Vue docs, they did well to sell themselves over ReactJS.
+
 * [Vue official docs comparison with React (be kind it is v2)](https://vuejs.org/v2/guide/comparison.html#React)
-* [Using React-Style Callback Props With Vue: Pros and Cons](https://vuejsdevelopers.com/2018/07/30/callback-props-vs-emitting-events/?jsdojo_id=fb_cbp)
+
+### Complete work through of a React component into Vue's
+
+- [A walk-through on writing component from React to Vue3 by Alex Riviere](https://www.youtube.com/watch?v=6b6T3KN5pRs)
+
+Alex Riviere did justice in working through how to write components in React with JSX into JSX in Vue and then into Vue's glorified SFCs.
+
+But please his argument on why devs use React over Vue is just a joke.
+
 * [Checklist for Writing Highly Reusable Components in React and Vue](https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd)
+
+## Others
+
+
+* [Using React-Style Callback Props With Vue: Pros and Cons](https://vuejsdevelopers.com/2018/07/30/callback-props-vs-emitting-events/?jsdojo_id=fb_cbp)
+
 * [A React Point of Vue - Divya Sasidharan at VueConf.US](https://youtu.be/5TgvhATYm3Q)
 * [Switching From React To Vue.js](https://medium.com/js-dojo/switching-from-react-to-vue-js-badf34565a2d)
 * [Comparing the React and Vue Ecosystems with a Real-World SPA](https://vuejsdevelopers.com/2018/09/04/comparing-vue-and-react/)
